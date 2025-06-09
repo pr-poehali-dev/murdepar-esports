@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 const players = [
   {
     id: 1,
-    nickname: "ShadowHunter",
+    nickname: "56k",
     realName: "Алексей Морозов",
     role: "Стрелок",
     country: "RU",
@@ -15,7 +15,7 @@ const players = [
   },
   {
     id: 2,
-    nickname: "IceKing",
+    nickname: "Komp3rs",
     realName: "Дмитрий Волков",
     role: "Капитан",
     country: "RU",
@@ -25,7 +25,7 @@ const players = [
   },
   {
     id: 3,
-    nickname: "Phoenix",
+    nickname: "Apostol",
     realName: "Екатерина Смирнова",
     role: "Поддержка",
     country: "RU",
@@ -35,7 +35,7 @@ const players = [
   },
   {
     id: 4,
-    nickname: "ThunderBolt",
+    nickname: "Patci",
     realName: "Михаил Петров",
     role: "Танк",
     country: "RU",
@@ -45,7 +45,7 @@ const players = [
   },
   {
     id: 5,
-    nickname: "Mystic",
+    nickname: "Ka1eveZy",
     realName: "Анна Козлова",
     role: "Стратег",
     country: "RU",
